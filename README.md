@@ -6,4 +6,4 @@ Marcus D. Bloice, Peter M. Roth, and Andreas Holzinger. "Performing Arithmetic U
 
 See <https://link.springer.com/chapter/10.1007/978-3-030-59491-6_24>
 
-The repository contains a single notebook, `[MNIST Final Experiments.ipynb](MNIST Final Experiments.ipynb)`, which allows the experiment replicated. Due to the random nature of the network initialisation, randomised train test splits, and so on, results may not match exactly what was presented in the paper.
+The repository contains a single notebook, [`MNIST Final Experiments.ipynb`](MNIST Final Experiments.ipynb), which allows the experiment replicated. Due to the random nature of the network initialisation, randomised train test splits, and so on, results may not match exactly what was presented in the paper.
