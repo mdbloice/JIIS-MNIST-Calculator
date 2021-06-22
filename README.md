@@ -8,6 +8,8 @@ Here is some sample output of the trained network:
 
 ![Predictions](predictions.png)
 
+Please read the paper for further details of this experiment.
+
 ## Paper
 
 This repository contains code to replicate the work described in the following paper: 
