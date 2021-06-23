@@ -6,12 +6,12 @@ In this work, we ask if a network trained with images of digit pairs, and only t
 
 Below is some example input to the network:
 
-| Input                     | Label |
-|---------------------------|-------|
-| ![ 3-1-4 ]  ( 3-1-4.png)  | 4     |
-| ![ 6-6-12 ] ( 6-6-12.png) | 12    |
-| ![ 4-8-12 ] ( 4-8-12.png) | 12    |
-| ![ 3-8-11 ] ( 3-8-11.png) | 11    |
+| Input                  | Label |
+|------------------------|-------|
+| ![3-1-4](3-1-4.png)    | 4     |
+| ![6-6-12](6-6-12.png)  | 12    |
+| ![4-8-12](4-8-12.png)  | 12    |
+| ![3-8-11](3-8-11.png)  | 11    |
 
 Input to the network is a **single image** containing the concatenation of two MNIST digits, and its label is the **summation of the two digits**.
 
