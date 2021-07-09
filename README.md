@@ -19,7 +19,7 @@ Here is some sample output of the trained network on **unseen digit pairs**:
 
 ![Predictions](predictions.png)
 
-Please read the paper for further details of this experiment.
+Please read the paper linked below for further details of this experiment.
 
 ## Paper
 
