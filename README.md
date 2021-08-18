@@ -25,9 +25,7 @@ Please read the paper linked below for further details of this experiment.
 
 This repository contains code to replicate the work described in the following paper: 
 
-Marcus D. Bloice, Peter M. Roth, and Andreas Holzinger. "Performing Arithmetic Using a Neural Network Trained on Digit Permutation Pairs." In _International Symposium on Methodologies for Intelligent Systems (ISMIS 2020)_, pp. 255–264. Springer, 2020. 
-
-See <https://link.springer.com/chapter/10.1007/978-3-030-59491-6_24>
+Bloice, M.D., Roth, P.M., and Holzinger, A. **Performing arithmetic using a neural network trained on images of digit permutation pairs**. _Journal of Intelligent Information Systems (2021)_. https://doi.org/10.1007/s10844-021-00662-9
 
 ## Reproducibility 
 
